@@ -5,11 +5,16 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
-  font: rose
-  font_size: L
+ mode: system
+ color: emerald
+ # font: "Rose"
+ font_size: L
 
+# appearance:
+#   theme_day: forest
+#   theme_night: forest
+#   font: "Rose"
+#   font_size: M
   # SEO
 marketing:
   seo:
