@@ -10,8 +10,8 @@ appearance:
 
 # Fonts
 font:
-  font: Rose
-  font_size: L
+  font: 'Rose'
+  # font_size: L
 
   # SEO
 marketing:
