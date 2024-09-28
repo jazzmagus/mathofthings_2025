@@ -6,12 +6,12 @@ title: 吳健雄
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: d!3g0
+last_name: fantinelli
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role:  Maths Teacher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:

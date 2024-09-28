@@ -5,17 +5,11 @@
 
 # Appearance
 appearance:
- mode: system
- color: emerald
- # font: Rose
- # font_size: L
+  mode: dark
+  color: zinc
 
-# appearance:
-#   theme_day: forest
-#   theme_night: forest
-#   font: "Rose"
-#   font_size: M
-  # SEO
+#   
+# SEO
 marketing:
   seo:
     site_type: Person
