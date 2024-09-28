@@ -7,6 +7,9 @@
 appearance:
   mode: dark
   color: green
+  font:
+    family: "Roboto" # Puoi sostituirlo con il nome del font che preferisci
+    weights: [400, 700] # Specifica i pesi (normale, bold)
   font_size: L
 
 #   
