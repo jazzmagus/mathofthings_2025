@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: d!3g0 fantinelli
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: d!3g0
@@ -25,7 +25,7 @@ role:  Maths Teacher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: OpenAI
-    url: https://openai.com/
+    # url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
